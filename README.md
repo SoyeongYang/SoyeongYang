@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Hello. My name is Soyeong, I am a B.S student in **Chung-Ang University**.<br>
-My major is the Department of **Computer Arts** in College of **Art & Technology**.
+My major is the Department of **Computer Art** in College of **Art & Technology**.
