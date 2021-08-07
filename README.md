@@ -1,4 +1,4 @@
-### Welcome to my Github, SoyeongYang🙌🏻
+### Welcome to my Github, SoyeongYan🙌
 
 <!--
 **SoyeongYang/SoyeongYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
