@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello. My name is Soyeong, I am a B.S student in **Chung-Ang University**.<br>
-My major is the Department of **Computer Art** in College of **Art & Technology**.
+Hello. My name is Soyeong Yang, I am a M.S student in **Korea Advanced Institute of Science and Technology(KAIST)**.<br>
+My major is the Department of **Metaverse Program** at the College of **Culture & Technology**.
