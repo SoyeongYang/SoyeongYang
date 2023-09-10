@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Hello. My name is Soyeong Yang, I am a M.S student in **Korea Advanced Institute of Science and Technology(KAIST)**.<br>
-I'm in **HCI Tech Lab** at the College of **Culture & Technology**.<br>
+I'm in **HCI Tech Lab** at the **Graduate School of Culture Technology**.<br>
 My research interests are **Haptic Rendering**, **Interaction Design** and **Virtual Reality**.
