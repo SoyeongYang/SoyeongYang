@@ -1,4 +1,4 @@
-### Welcome to my Github, SoyeongYang🙌
+### Welcome to my Github, Soyeong Yang 🙌
 
 <!--
 **SoyeongYang/SoyeongYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Hello. My name is Soyeong Yang, I am a M.S student in **Korea Advanced Institute of Science and Technology(KAIST)**.<br>
-My major is the Department of **Metaverse Program** at the College of **Culture & Technology**.
+I'm in **HCI Tech Lab** at the College of **Culture & Technology**.<br>
+My research interests are **Haptic Rendering**, **Interaction Design** and **Virtual Reality**.
