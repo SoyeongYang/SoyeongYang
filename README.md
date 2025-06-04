@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello. My name is Soyeong Yang, Ph.D student in **Korea Advanced Institute of Science and Technology(KAIST)**.<br>
+Hello. My name is Soyeong Yang, Ph.D. student in **Korea Advanced Institute of Science and Technology(KAIST)**.<br>
 I'm in **HCI Tech Lab** at the **Graduate School of Metaverse**.<br>
-My research interests are **Haptic Rendering**, **Interaction Design**, and **Virtual Reality**.
+My research interests are **Haptic Rendering**, **Human Perception**, and **Virtual Reality**.
